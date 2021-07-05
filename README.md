@@ -1,5 +1,9 @@
 ### Hi there 👋, I'm Noêmia Cíntia
 
+I am currently an electrical engineering student at UFCG(Universidade Federal de Campina Grande) and I intend to work in the robotics and automation area, notwithstanding other areas. Besides, I am always curious about technology and programming, and I already know and program in 3 languages: C, C++ and Python.
+I participate in university projects, such as RASbóticas, which seeks the involvement and development of women in STEM (Science, Technology, Engineering and Mathematics) and I am a member/volunteer at IEEE (Institute of Electrical and Electronic Engineers) within RAS (Robotics and Automation Society) where I am the marketing coordinator. Involved in these projects I acquired experience with content presentation, electronics, programming, simulators, people management and exchange of experiences - networking - which is something peculiar to IEEE and that we love.
+In my free time I like to research about the job market, watch some technology series, read self-help books and also program in arduino.
+
 <p align="center">
   <a href="https://github.com/noemiacintia">
   <img 
