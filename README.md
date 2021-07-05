@@ -18,13 +18,13 @@ Electrical engineering student at UFCG(Universidade Federal de Campina Grande).
 </div>  
 </p>
 
-## Stats on Github:  
+## Stats on Github  
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=noemiacintia&show_icons=true&theme=Architect&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noemiacintia&layout=compact&langs_count=16&theme=Architect"/>
 </div> 
 
-## Status: 
+## Status 
 
 - I am currently an electrical engineering student at UFCG(Universidade Federal de Campina Grande)
 - I participate in university projects, such as RASbóticas
