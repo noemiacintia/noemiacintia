@@ -1,13 +1,6 @@
 # Hi there 👋, my name is Noêmia Cíntia
 ```
-I am currently an electrical engineering student at UFCG(Universidade Federal de Campina Grande)
-and I intend to work in the robotics and automation area, notwithstanding other areas.
-I participate in university projects, such as RASbóticas, which seeks the involvement and 
-development of women in STEM (Science, Technology, Engineering and Mathematics) and I am a 
-member/volunteer at IEEE (Institute of Electrical and Electronic Engineers) within RAS (Robotics 
-and Automation Society) where I am the marketing coordinator. 
-In my free time I like to research about the job market, watch some technology series, read 
-self-help books and also program in arduino.
+Electrical engineering student at UFCG(Universidade Federal de Campina Grande).
 
 ```
 
@@ -27,6 +20,15 @@ self-help books and also program in arduino.
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=noemiacintia&show_icons=true&theme=Architect&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noemiacintia&layout=compact&langs_count=16&theme=Architect"/>
 </div> 
+
+## Status: 
+
+- I am currently an electrical engineering student at UFCG(Universidade Federal de Campina Grande)
+- I participate in university projects, such as RASbóticas
+- I am a member/volunteer at IEEE (Institute of Electrical and Electronic Engineers) within RAS (Robotics 
+and Automation Society) 
+- In my free time I like to research about the job market, watch some technology series, read 
+self-help books and also programming.
 
 ## Languages and Tools  
 <div align="center">
