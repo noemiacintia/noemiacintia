@@ -3,7 +3,9 @@
 Electrical engineering student at UFCG(Universidade Federal de Campina Grande).
 
 ```
-
+## Contacts 
+<p align="center">
+ </div>
 <div align="center">
 <a href="https://www.linkedin.com/in/noemiacintia/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white target="_blank" alt=linkedin style="margin-bottom: 5px;" />
@@ -14,6 +16,7 @@ Electrical engineering student at UFCG(Universidade Federal de Campina Grande).
 <a href="https://instagram.com/noemiacintia" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </a> 
 </div>  
+</p>
 
 ## Stats on Github:  
 <div align="center">
