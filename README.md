@@ -13,7 +13,7 @@ Electrical engineering student at UFCG(Universidade Federal de Campina Grande).
 <a href="mailto:noemia.silva@ee.ufcg.edu.br" target="_blank">
 <img src=https://img.shields.io/badge/-gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white target="_blank" alt=gmail style="margin-bottom: 5px" />
 </a> 
-<a href="https://instagram.com/noemiacintia" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/noemiacintia" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
 </a> 
 </div>  
 </p>
