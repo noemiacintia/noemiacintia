@@ -1,4 +1,4 @@
-# Hi there 👋, my name is Noêmia Cíntia
+# Hi there 👋, my name is Noêmia Cíntia!
 ```
 Electrical engineering student at UFCG(Universidade Federal de Campina Grande).
 
