@@ -1,6 +1,6 @@
 # Hi there 👋, my name is Noêmia Cíntia!
 ```
-Electrical engineering student at UFCG(Universidade Federal de Campina Grande).
+Electrical engineering student at UFCG (Universidade Federal de Campina Grande).
 
 ```
 ## Contacts 
