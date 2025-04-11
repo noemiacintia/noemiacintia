@@ -28,11 +28,7 @@ Electrical engineering student at UFCG (Universidade Federal de Campina Grande).
 ## Status 
 
 - I am currently an electrical engineering student at UFCG(Universidade Federal de Campina Grande)
-- I participate in university projects, such as RASbóticas
-- I am a member/volunteer at IEEE (Institute of Electrical and Electronic Engineers) within RAS (Robotics 
-and Automation Society) 
-- In my free time I like to research about the job market, watch some technology series, read 
-self-help books and also programming.
+- I am a member/volunteer at IEEE (Institute of Electrical and Electronic Engineers)
 
 ## Languages and Tools  
 <div align="center">
